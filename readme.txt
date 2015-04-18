@@ -1,4 +1,4 @@
-﻿=== Rocket Font ===
+﻿=== Rocket Media Library Mime Type ===
 Contributors: Qwerty23
 Donate link: http://in-web.co.kr
 Plugin URI: http://rocketpress.kr
