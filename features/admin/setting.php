@@ -93,7 +93,7 @@ class Setting extends Feature {
 			
 			if($("#menu-settings .menu-icon-settings").length > 0){
 				
-				var options = {"content":"<h3 class='rocket-icon'>"+'Rokcet Font'+"<\/h3>"+'<p>플러그인이 활성화 되었습니다.</p><p>[설정] > [이미지 파일 타입] 메뉴에서 허용할 파일 타입을 설정해 주세요</p>',"position":{"edge":"left","align":"center"}};
+				var options = {"content":"<h3 class='rocket-icon'>"+'Rocket Media Library Mime Type'+"<\/h3>"+'<p>플러그인이 활성화 되었습니다.</p><p>[설정] > [이미지 파일 타입] 메뉴에서 허용할 파일 타입을 설정해 주세요</p>',"position":{"edge":"left","align":"center"}};
 				if ( ! options ) return;
 				
 				options = $.extend( options, {
