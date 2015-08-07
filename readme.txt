@@ -1,11 +1,11 @@
 ﻿=== Rocket Media Library Mime Type ===
 Contributors: Qwerty23
-Donate link: http://in-web.co.kr
+Donate link: http://rocketpress.kr
 Plugin URI: http://rocketpress.kr
 Tags: Wordpress Korean Media Library Upload File Type, 업로드 파일 타입
 Requires at least: 4.1
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
