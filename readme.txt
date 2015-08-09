@@ -35,6 +35,9 @@ wordpress 의 미디어 라이브러리(자료실)에서 업로드를 허용할 
 * webm
 * ogv
 * csv
+* ai
+* eps
+* ps
 
 * 만약 업로드하고 싶은 파일이 이 플러그인에 없다면 [포럼 게시판](http://rocketpress.kr/forum/) 을 통해 저에게 알려주세요. 검토 후 추가하겠습니다.
 
